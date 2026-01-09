@@ -9,9 +9,9 @@ Assignment provided by FreeCodeCamp.org
 3. You should have a function named hasPassingGrade that takes a score as a parameter and returns either true or false depending on if the score corresponds to a passing grade.
 4. The hasPassingGrade function should use the getGrade function to get the letter grade, and use it to determine if the grade is passing. A passing grade is anything different from "F".
 5. You should have a function named studentMsg that takes an array of scores and a student score as the parameters. The function should return a string with the format:
-"Class average: average-goes-here. Your grade: grade-goes-here. You passed the course.", if the student passed the course.
-"Class average: average-goes-here. Your grade: grade-goes-here. You failed the course.", if the student failed the course.
-Replace average-goes-here with the average of total scores and grade-goes-here with the student's grade. Use getAverage to get the average score and getGrade to get the student's grade.
+  * "Class average: average-goes-here. Your grade: grade-goes-here. You passed the course.", if the student passed the course.
+  * "Class average: average-goes-here. Your grade: grade-goes-here. You failed the course.", if the student failed the course.
+  * Replace average-goes-here with the average of total scores and grade-goes-here with the student's grade. Use getAverage to get the average score and getGrade to get the student's grade.
 
 ## Tools & Languages Used
 * JavaScript
